@@ -24,6 +24,12 @@ System.out.println("Hello world");
 printf("hello world")
 ```
 
+# Adding a Task List
+- [x] Start course one
+- [ ] Finish course one
+- [ ] Start course two
+
 This is a commit message for index.md
 Second commit - adding an image.
 3rd commit - adding code.
+4th commit - task list
