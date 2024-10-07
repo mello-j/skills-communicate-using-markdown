@@ -10,7 +10,20 @@
 # Adding an Image with Markdown
 ![StarWars main image](https://static.wikia.nocookie.net/starwars/images/c/cc/Star-wars-logo-new-tall.jpg/revision/latest?cb=20190313021755)
 
-
+# Adding a Code Example
+## Javascript
+```
+console.log("hello world");
+```
+## Java
+```
+System.out.println("Hello world");
+```
+## Python
+```
+printf("hello world")
+```
 
 This is a commit message for index.md
 Second commit - adding an image.
+3rd commit - adding code.
